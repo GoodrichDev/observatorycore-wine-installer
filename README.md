@@ -1,0 +1,1 @@
+# observatorycore-wine-installer
